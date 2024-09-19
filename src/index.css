@@ -1,0 +1,16 @@
+
+.hero-section img{
+  height: 500px!important;
+}
+
+b{
+  color:orange;
+}
+
+.navbar-nav .nav-link.active , .nav-link:hover{
+  color:orange!important;
+}
+
+.container-fluid{
+  background-color: orange;
+}

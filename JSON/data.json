@@ -1,0 +1,12 @@
+{
+    "items": [
+    { "name": "food1", "image": "./assets/food1.jpg" },
+    { "name": "food2", "image": "/assets/food2.jpg" },
+    { "name": "food3", "image": "/assets/food3.jpg" },
+    { "name": "food4", "image": "/assets/food1.jpg" },
+    { "name": "food5", "image": "/assets/food2.jpg" },
+    { "name": "food6", "image": "/assets/food3.jpg" },
+    { "name": "food7", "image": "/assets/food1.jpg" },
+    { "name": "food8", "image": "/assets/food2.jpg" }
+  ]
+}
